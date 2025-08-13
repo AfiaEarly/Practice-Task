@@ -6,7 +6,7 @@ int main() {
     float balance = 5000.00;
     float amount;
 
-    printf("Enter Pin\n :");
+    printf("Enter Pin : ");
     scanf("%d",&pin);
     printf("1. Check Your Balance\n");
     printf("2. Deposit Your Money\n");
@@ -45,3 +45,4 @@ int main() {
 
   
 }
+
