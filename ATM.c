@@ -2,7 +2,7 @@
 
 int main() {
     int option;
-    float balance = 1000.00;
+    float balance = 5000.00;
     float amount;
 
     
@@ -43,3 +43,4 @@ int main() {
 
   
 }
+
