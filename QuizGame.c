@@ -103,37 +103,4 @@ int main()
 
     printf("\nYOUR TOTAL SCORE IS : %d out of 5 \n",score);
 
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
